@@ -97,4 +97,4 @@ Feel free to fork, enhance, or deploy it freely.
 
 ---
 
-> Made with ❤️ by Dikshith ML
+> By Dikshith ML
